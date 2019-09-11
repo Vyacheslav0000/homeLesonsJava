@@ -29,7 +29,6 @@ public class MyClass2 {
         System.out.println("Значение для типа float = " + f);
         System.out.println("Значение для типа double = " + d);
     }
-
     //2 - 3. Написать метод вычисляющий выражение a * (b + (c / d)) и возвращающий результат,
     //где a, b, c, d – входные параметры этого метода;
     static double doTwo(double a, double b, double c, double d) {
